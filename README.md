@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Jack Morgan
+Aspiring Data Engineer | SQL, Python, ETL, APIs, PostgreSQL, Power BI
 
-<!--
-**jackdamorgan/jackdamorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+**[🏆 Premier League Match Analytics](https://github.com/jackdamorgan/premier-league-analytics)**  
+End-to-end ETL pipeline fetching Premier League match data from API, transforming it with Python, and loading into PostgreSQL. Visualized in Power BI to track team standings, form, and goals.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL  
+**Databases:** PostgreSQL, MySQL  
+**Visualization:** Power BI, Tableau  
+**Tools:** Git, Airflow (in progress), Docker (in progress)  
+**Cloud:** AWS RDS/S3 (in progress)
+
+---
+
+## 📫 Connect
+- **LinkedIn:** [linkedin.com/in/jackmo8](https://linkedin.com/in/jackmo8)
